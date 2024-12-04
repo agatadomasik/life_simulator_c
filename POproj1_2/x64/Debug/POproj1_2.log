@@ -1,0 +1,23 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  Lis.cpp
+  main.cpp
+C:\Users\agata\Desktop\PO\POproj1_2\POproj1_2\main.cpp(71,14): warning C4101: "inicjatywa": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\agata\Desktop\PO\POproj1_2\POproj1_2\main.cpp(71,8): warning C4101: "sila": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\agata\Desktop\PO\POproj1_2\POproj1_2\main.cpp(210,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Mlecz.cpp
+  Owca.cpp
+  Swiat.cpp
+  Organizm.cpp
+C:\Users\agata\Desktop\PO\POproj1_2\POproj1_2\Organizm.cpp(18,26): warning C4150: usunięcie wskaźnika do niekompletnego typu "Swiat"; brak wywołania destruktora
+C:\Users\agata\Desktop\PO\POproj1_2\POproj1_2\Organizm.h(6,7): message : zobacz deklarację „Swiat”
+  Trawa.cpp
+  WilczeJagody1.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Roslina.cpp
+  Guarana.cpp
+  Generowanie kodu...
+  POproj1_2.vcxproj -> C:\Users\agata\Desktop\PO\POproj1_2\x64\Debug\POproj1_2.exe
